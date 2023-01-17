@@ -1,0 +1,11 @@
+/target
+/vendor
+**/*.rs.bk
+**/*.sw[po]
+**/*.orig
+**/*.o
+**/*.DS_Store
+**/*.log
+**/Cargo.lock
+.idea/
+.vscode/
